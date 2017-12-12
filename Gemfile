@@ -13,7 +13,7 @@ gem 'geocoder'
 gem 'gmaps4rails'
 
 gem 'rails',        '5.1.2'
-gem 'puma',         '3.9.1'
+#gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
